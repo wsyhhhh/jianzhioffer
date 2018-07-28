@@ -1,0 +1,3 @@
+F:/code/38/cmake-build-debug/CMakeFiles/38.dir
+F:/code/38/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/38/cmake-build-debug/CMakeFiles/rebuild_cache.dir
